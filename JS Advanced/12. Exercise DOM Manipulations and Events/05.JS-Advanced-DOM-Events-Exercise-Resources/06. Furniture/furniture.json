@@ -1,0 +1,15 @@
+[
+    {
+        "img":"https://images.squarespace-cdn.com/content/v1/51ba2756e4b085867cd948c5/1671557259308-DTM11UW3D91O8ZUQUL1R/image.jpeg",
+        "name": "Sofa",
+        "price": "259",
+        "decFactor":"0.4"
+
+    },
+    {
+        "img":"https://images.squarespace-cdn.com/content/v1/59d188bf914e6b6e0ebdaeab/1594092850219-94XQRZX6ZHAJF0RZDAW3/image.jpeg",
+        "name": "Wardrobe",
+        "price": "120",
+        "decFactor":"1.2"
+    }
+]
